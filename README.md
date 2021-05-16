@@ -1,4 +1,4 @@
 A Calculator using Python Tkinter Lib
 
 
-<img  href="/calc.jpeg/">
+<img  href="/calc.JPG/">
